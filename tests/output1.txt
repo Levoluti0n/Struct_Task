@@ -1,0 +1,4 @@
+Student Info:
+Name: Alice
+Age: 20
+Grade: 95.50

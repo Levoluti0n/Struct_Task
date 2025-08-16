@@ -1,0 +1,4 @@
+Student Info:
+Name: Bob
+Age: 18
+Grade: 88.25

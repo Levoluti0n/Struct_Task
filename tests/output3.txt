@@ -1,0 +1,4 @@
+Student Info:
+Name: Charlie
+Age: 22
+Grade: 72.00
