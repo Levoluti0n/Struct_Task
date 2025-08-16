@@ -63,4 +63,4 @@ Grade: 95.50
 ## Submission
 - Complete the student.c file.
 - Make sure your code runs correctly and matches the expected output.
-- Push your code to the repository created for this assignment in GitHub Classroom.
+- Push your code to the repo created for this assignment in GitHub Classroom.
