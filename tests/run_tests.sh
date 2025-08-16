@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd ..
-
 gcc main.c -o main
 if [ $? -ne 0 ]; then
     echo "Compilation failed!"
